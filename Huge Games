@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Endolotl228/Pet-simulator-script/refs/heads/main/Best%20script%20pet%20simulator%2099%20ever", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Verteniasty/Pet-rbx/refs/heads/main/loadstring"))()
